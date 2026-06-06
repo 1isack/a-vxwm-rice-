@@ -1,0 +1,6 @@
+.local/share/nvim/lazy/
+.local/share/nvim/mason/
+.local/share/gvfs-metadata/
+.config/picom/*.sw*
+*.zip
+*.tar.gz

@@ -1,0 +1,12 @@
+[   300.793] _XSERVTransSocketUNIXCreateListener: ...SocketCreateListener() failed
+[   300.793] _XSERVTransMakeAllCOTSServerListeners: server already running
+[   300.793] (EE) 
+Fatal server error:
+[   300.793] (EE) Cannot establish any listening sockets - Make sure an X server isn't already running(EE) 
+[   300.793] (EE) 
+Please consult the The X.Org Foundation support 
+	 at http://wiki.x.org
+ for help. 
+[   300.793] (EE) Please also check the log file at "/home/isaak/.local/share/xorg/Xorg.1.log" for additional information.
+[   300.793] (EE) 
+[   300.793] (EE) Server terminated with error (1). Closing log file.

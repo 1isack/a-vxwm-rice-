@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Wallpaper Selector
+Exec=/home/isaak/.local/bin/rofi-wallpaper
+Icon=preferences-desktop-wallpaper
+Terminal=false
+Categories=Utility;

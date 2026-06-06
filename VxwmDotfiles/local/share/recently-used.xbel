@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/isaak/Downloads/1413686.jpg" added="2026-06-04T07:44:49.408330Z" modified="2026-06-04T07:44:49.408333Z" visited="2026-06-04T07:44:49.408331Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-04T07:44:49.408332Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/1575691.jpg" added="2026-06-04T07:45:00.289074Z" modified="2026-06-04T07:45:00.289081Z" visited="2026-06-04T07:45:00.289075Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-04T07:45:00.289077Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/VxwmDotfiles/vxwm/config.h" added="2026-06-04T16:13:13.443905Z" modified="2026-06-05T05:48:48.968719Z" visited="2026-06-04T16:13:13.443906Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T05:48:48.968715Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/773433.jpg" added="2026-06-05T03:58:23.073337Z" modified="2026-06-05T03:58:23.073344Z" visited="2026-06-05T03:58:23.073338Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T03:58:23.073340Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/773433(1).jpg" added="2026-06-05T03:58:29.763877Z" modified="2026-06-05T03:58:29.763881Z" visited="2026-06-05T03:58:29.763878Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T03:58:29.763879Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/39b5LY8-black-forest-wallpaper.jpg" added="2026-06-05T03:58:33.813724Z" modified="2026-06-05T03:58:33.813730Z" visited="2026-06-05T03:58:33.813725Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T03:58:33.813727Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/ZuCcfrF-black-forest-wallpaper.jpg" added="2026-06-05T03:58:35.710828Z" modified="2026-06-05T03:58:35.710843Z" visited="2026-06-05T03:58:35.710829Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T03:58:35.710835Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/26SaXA6-black-forest-wallpaper.jpg" added="2026-06-05T03:58:37.299097Z" modified="2026-06-05T03:58:37.299107Z" visited="2026-06-05T03:58:37.299099Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T03:58:37.299101Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/1276372.jpg" added="2026-06-05T04:00:07.985185Z" modified="2026-06-05T04:00:07.985190Z" visited="2026-06-05T04:00:07.985185Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T04:00:07.985187Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/1276423.jpg" added="2026-06-05T04:00:15.462529Z" modified="2026-06-05T04:00:15.462535Z" visited="2026-06-05T04:00:15.462530Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T04:00:15.462532Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/1276429.jpg" added="2026-06-05T04:00:19.241152Z" modified="2026-06-05T04:00:19.241165Z" visited="2026-06-05T04:00:19.241154Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T04:00:19.241158Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/1276439.jpg" added="2026-06-05T04:00:22.212934Z" modified="2026-06-05T04:00:22.212948Z" visited="2026-06-05T04:00:22.212936Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T04:00:22.212941Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/429897.jpg" added="2026-06-05T04:00:25.296860Z" modified="2026-06-05T04:00:25.296872Z" visited="2026-06-05T04:00:25.296861Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T04:00:25.296866Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/2139.jpg" added="2026-06-05T04:00:27.518146Z" modified="2026-06-05T04:00:27.518151Z" visited="2026-06-05T04:00:27.518147Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T04:00:27.518149Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/1276442.jpg" added="2026-06-05T04:00:30.630314Z" modified="2026-06-05T04:00:30.630348Z" visited="2026-06-05T04:00:30.630316Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T04:00:30.630341Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/1276474.jpg" added="2026-06-05T04:00:34.174089Z" modified="2026-06-05T04:00:34.174093Z" visited="2026-06-05T04:00:34.174090Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T04:00:34.174091Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/1276487.jpg" added="2026-06-05T04:00:38.547924Z" modified="2026-06-05T04:00:38.547930Z" visited="2026-06-05T04:00:38.547925Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T04:00:38.547927Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/1276644.jpg" added="2026-06-05T04:00:42.737129Z" modified="2026-06-05T04:00:42.737139Z" visited="2026-06-05T04:00:42.737130Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T04:00:42.737132Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/2560037.jpg" added="2026-06-05T04:00:47.882586Z" modified="2026-06-05T04:00:47.882590Z" visited="2026-06-05T04:00:47.882586Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T04:00:47.882587Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/686961.jpg" added="2026-06-05T04:00:51.520161Z" modified="2026-06-05T04:00:51.520166Z" visited="2026-06-05T04:00:51.520162Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T04:00:51.520163Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/1244620.jpg" added="2026-06-05T04:00:55.443875Z" modified="2026-06-05T04:00:55.443881Z" visited="2026-06-05T04:00:55.443876Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T04:00:55.443878Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/2552202.jpg" added="2026-06-05T04:01:02.190229Z" modified="2026-06-05T04:01:02.190235Z" visited="2026-06-05T04:01:02.190230Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T04:01:02.190231Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/2560089.jpg" added="2026-06-05T04:01:05.603123Z" modified="2026-06-05T04:01:05.603129Z" visited="2026-06-05T04:01:05.603124Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T04:01:05.603126Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/539678.jpg" added="2026-06-05T04:01:11.009255Z" modified="2026-06-05T04:01:11.009263Z" visited="2026-06-05T04:01:11.009256Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T04:01:11.009259Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/VxwmDotfiles/Music/nightcore%EF%BC%9F/nightcore%EF%BC%9F_Akkiemi%20-%20paranoia%20(sped%20up).m4a" added="2026-06-05T04:18:14.949512Z" modified="2026-06-05T04:18:14.949521Z" visited="2026-06-05T04:18:14.949513Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-06-05T04:18:14.949516Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/VxwmDotfiles/Music/skin/skin_outka%20-%20skin%20(slowed).m4a" added="2026-06-05T04:18:30.926972Z" modified="2026-06-05T04:18:30.926981Z" visited="2026-06-05T04:18:30.926973Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-06-05T04:18:30.926976Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/gdb_out.txt" added="2026-06-05T04:37:12.740230Z" modified="2026-06-05T04:37:12.740249Z" visited="2026-06-05T04:37:12.740231Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T04:37:12.740236Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/gemini-code-1780634487263.sh" added="2026-06-05T04:41:27.555476Z" modified="2026-06-05T04:41:27.555482Z" visited="2026-06-05T04:41:27.555477Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T04:41:27.555479Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/gemini-code-1780635488209.sh" added="2026-06-05T04:58:08.483088Z" modified="2026-06-05T04:58:08.483096Z" visited="2026-06-05T04:58:08.483089Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T04:58:08.483091Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/.config/picom/picom.conf" added="2026-06-05T05:43:44.948621Z" modified="2026-06-06T03:45:20.820266Z" visited="2026-06-05T05:43:44.948623Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-06T03:45:20.820261Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/.spicetify/Themes/SpicetifyDefault/user.css" added="2026-06-05T06:21:41.056569Z" modified="2026-06-05T06:21:41.056578Z" visited="2026-06-05T06:21:41.056570Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:21:41.056572Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/.spicetify/Themes/SpicetifyDefault/color.ini" added="2026-06-05T06:21:41.056598Z" modified="2026-06-05T06:21:41.056604Z" visited="2026-06-05T06:21:41.056599Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:21:41.056601Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Wallpapers/26SaXA6-black-forest-wallpaper.jpg" added="2026-06-05T06:39:05.097432Z" modified="2026-06-05T06:39:05.097440Z" visited="2026-06-05T06:39:05.097433Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-06-05T06:39:05.097436Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Wallpapers/39b5LY8-black-forest-wallpaper.jpg" added="2026-06-05T06:39:14.542867Z" modified="2026-06-05T06:39:14.542881Z" visited="2026-06-05T06:39:14.542872Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-06-05T06:39:14.542875Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/forest-fog-morning-dark-path-autumn-forest-mist-landscape-3840x2562-8010.jpg" added="2026-06-05T06:41:11.650923Z" modified="2026-06-05T06:41:11.650928Z" visited="2026-06-05T06:41:11.650924Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:41:11.650925Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/lunar-tides-5120x4266-26444.jpg" added="2026-06-05T06:41:14.196715Z" modified="2026-06-05T06:41:14.196719Z" visited="2026-06-05T06:41:14.196715Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:41:14.196717Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/misty-forest-green-5120x2880-26361.jpg" added="2026-06-05T06:41:19.526522Z" modified="2026-06-05T06:41:19.526531Z" visited="2026-06-05T06:41:19.526523Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:41:19.526526Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/thick-forest-misty-5120x3413-26360.jpg" added="2026-06-05T06:41:20.899848Z" modified="2026-06-05T06:41:20.899857Z" visited="2026-06-05T06:41:20.899849Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:41:20.899852Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/pine-trees-forest-5k-5120x3413-17759.jpg" added="2026-06-05T06:41:22.140884Z" modified="2026-06-05T06:41:22.140890Z" visited="2026-06-05T06:41:22.140885Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:41:22.140887Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/arashiyama-bamboo-3840x2160-15688.jpg" added="2026-06-05T06:41:23.227181Z" modified="2026-06-05T06:41:23.227188Z" visited="2026-06-05T06:41:23.227182Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:41:23.227184Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/foggy-autumn-forest-5120x2880-16624.jpg" added="2026-06-05T06:41:24.562186Z" modified="2026-06-05T06:41:24.562192Z" visited="2026-06-05T06:41:24.562187Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:41:24.562189Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/thick-forest-5120x2880-14776.jpg" added="2026-06-05T06:41:25.539036Z" modified="2026-06-05T06:41:25.539041Z" visited="2026-06-05T06:41:25.539037Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:41:25.539039Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/enchanting-autumn-7952x5304-12984.jpg" added="2026-06-05T06:41:26.676423Z" modified="2026-06-05T06:41:26.676442Z" visited="2026-06-05T06:41:26.676424Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:41:26.676425Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/foggy-night-autumn-6609x4957-12983.jpg" added="2026-06-05T06:41:27.268940Z" modified="2026-06-05T06:41:27.268945Z" visited="2026-06-05T06:41:27.268941Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:41:27.268942Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/snow-covered-winter-5996x4003-12622.jpg" added="2026-06-05T06:41:28.254626Z" modified="2026-06-05T06:41:28.254632Z" visited="2026-06-05T06:41:28.254627Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:41:28.254629Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/forest-autumn-fall-4368x2912-11210.jpg" added="2026-06-05T06:41:29.012440Z" modified="2026-06-05T06:41:29.012451Z" visited="2026-06-05T06:41:29.012441Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:41:29.012445Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/winter-forest-snow-5119x3072-10939.jpg" added="2026-06-05T06:41:29.346495Z" modified="2026-06-05T06:41:29.346504Z" visited="2026-06-05T06:41:29.346496Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:41:29.346499Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/foggy-pine-trees-6000x4000-9735.jpg" added="2026-06-05T06:41:35.772660Z" modified="2026-06-05T06:41:35.772665Z" visited="2026-06-05T06:41:35.772661Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:41:35.772663Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/arctic-wolf-white-5120x3150-9720.jpg" added="2026-06-05T06:41:39.882508Z" modified="2026-06-05T06:41:39.882514Z" visited="2026-06-05T06:41:39.882509Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:41:39.882511Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/winter-forest-cold-6000x4000-9632.jpg" added="2026-06-05T06:41:41.531671Z" modified="2026-06-05T06:41:41.531676Z" visited="2026-06-05T06:41:41.531672Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:41:41.531673Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/golden-larches-fall-forest-trees-5k-5760x3840-8570.jpg" added="2026-06-05T06:41:42.956420Z" modified="2026-06-05T06:41:42.956428Z" visited="2026-06-05T06:41:42.956421Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:41:42.956424Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/1575689.jpg" added="2026-06-05T06:41:48.749405Z" modified="2026-06-05T06:41:48.749409Z" visited="2026-06-05T06:41:48.749405Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:41:48.749407Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/96729.jpg" added="2026-06-05T06:41:58.044401Z" modified="2026-06-05T06:41:58.044407Z" visited="2026-06-05T06:41:58.044401Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:41:58.044404Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/1575794.jpg" added="2026-06-05T06:42:03.027413Z" modified="2026-06-05T06:42:03.027419Z" visited="2026-06-05T06:42:03.027415Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:42:03.027417Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/1575868.jpg" added="2026-06-05T06:42:10.505016Z" modified="2026-06-05T06:42:10.505029Z" visited="2026-06-05T06:42:10.505018Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:42:10.505022Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/1575889.jpg" added="2026-06-05T06:42:14.749094Z" modified="2026-06-05T06:42:14.749104Z" visited="2026-06-05T06:42:14.749096Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:42:14.749099Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/1575894.jpg" added="2026-06-05T06:42:18.313237Z" modified="2026-06-05T06:42:18.313250Z" visited="2026-06-05T06:42:18.313239Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:42:18.313243Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/128892.jpg" added="2026-06-05T06:42:21.018287Z" modified="2026-06-05T06:42:21.018298Z" visited="2026-06-05T06:42:21.018288Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:42:21.018291Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/wp16123453-black-forest-desktop-wallpapers.jpg" added="2026-06-05T06:43:12.807253Z" modified="2026-06-05T06:43:12.807258Z" visited="2026-06-05T06:43:12.807254Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:43:12.807256Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/wp13990379-4k-black-forest-wallpapers.jpg" added="2026-06-05T06:43:14.145061Z" modified="2026-06-05T06:43:14.145066Z" visited="2026-06-05T06:43:14.145062Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:43:14.145064Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/wp12159568-black-jungle-wallpapers.jpg" added="2026-06-05T06:43:15.698376Z" modified="2026-06-05T06:43:15.698381Z" visited="2026-06-05T06:43:15.698377Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:43:15.698378Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/wp2996489-dark-forest-wallpaper-hd.jpg" added="2026-06-05T06:43:16.947818Z" modified="2026-06-05T06:43:16.947822Z" visited="2026-06-05T06:43:16.947819Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:43:16.947820Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/ARKCaNC-dark-forest-wallpapers.jpg" added="2026-06-05T06:43:18.312960Z" modified="2026-06-05T06:43:18.312966Z" visited="2026-06-05T06:43:18.312961Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:43:18.312963Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/wp16123486-black-forest-desktop-wallpapers.jpg" added="2026-06-05T06:43:19.855716Z" modified="2026-06-05T06:43:19.855721Z" visited="2026-06-05T06:43:19.855717Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:43:19.855718Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/wp12706997-gloomy-forest-wallpapers.jpg" added="2026-06-05T06:43:21.320083Z" modified="2026-06-05T06:43:21.320088Z" visited="2026-06-05T06:43:21.320084Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:43:21.320085Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/wp13187664-gray-forest-wallpapers.png" added="2026-06-05T06:43:22.952746Z" modified="2026-06-05T06:43:22.952751Z" visited="2026-06-05T06:43:22.952747Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:43:22.952748Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/wp16123514-black-forest-desktop-wallpapers.png" added="2026-06-05T06:43:24.316268Z" modified="2026-06-05T06:43:24.316281Z" visited="2026-06-05T06:43:24.316270Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:43:24.316274Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/wp16123520-black-forest-desktop-wallpapers.jpg" added="2026-06-05T06:43:25.097852Z" modified="2026-06-05T06:43:25.097857Z" visited="2026-06-05T06:43:25.097853Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:43:25.097855Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/wp16123533-black-forest-desktop-wallpapers.jpg" added="2026-06-05T06:43:25.992845Z" modified="2026-06-05T06:43:25.992850Z" visited="2026-06-05T06:43:25.992846Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:43:25.992848Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/wp14679559-black-forest-desktop-wallpapers.jpg" added="2026-06-05T06:43:26.807359Z" modified="2026-06-05T06:43:26.807367Z" visited="2026-06-05T06:43:26.807360Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:43:26.807363Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/wp12953611-gloomy-forest-wallpapers.jpg" added="2026-06-05T06:43:28.102372Z" modified="2026-06-05T06:43:28.102392Z" visited="2026-06-05T06:43:28.102373Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:43:28.102374Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/wp16123572-black-forest-desktop-wallpapers.jpg" added="2026-06-05T06:43:29.239163Z" modified="2026-06-05T06:43:29.239168Z" visited="2026-06-05T06:43:29.239164Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:43:29.239166Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/wp14851149-forest-4k-desktop-wallpapers.webp" added="2026-06-05T06:43:30.094596Z" modified="2026-06-05T06:43:30.094604Z" visited="2026-06-05T06:43:30.094597Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:43:30.094599Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/wp14851149-forest-4k-desktop-wallpapers-1.webp" added="2026-06-05T06:43:31.149836Z" modified="2026-06-05T06:43:31.149841Z" visited="2026-06-05T06:43:31.149837Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:43:31.149839Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/wp14679696-dark-forest-pc-wallpapers.jpg" added="2026-06-05T06:43:33.633315Z" modified="2026-06-05T06:43:33.633328Z" visited="2026-06-05T06:43:33.633316Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:43:33.633325Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/wp16123743-black-forest-desktop-wallpapers.jpg" added="2026-06-05T06:43:36.716335Z" modified="2026-06-05T06:43:36.716344Z" visited="2026-06-05T06:43:36.716336Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:43:36.716339Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/wp16123776-black-forest-desktop-wallpapers.jpg" added="2026-06-05T06:43:39.512617Z" modified="2026-06-05T06:43:39.512628Z" visited="2026-06-05T06:43:39.512618Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:43:39.512620Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/wp16056920-lush-forest-wallpapers.jpg" added="2026-06-05T06:43:41.443407Z" modified="2026-06-05T06:43:41.443420Z" visited="2026-06-05T06:43:41.443409Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:43:41.443413Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/wp9528665-grey-forest-wallpapers.jpg" added="2026-06-05T06:43:42.856380Z" modified="2026-06-05T06:43:42.856393Z" visited="2026-06-05T06:43:42.856382Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T06:43:42.856386Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/.config/polybar/config.ini" added="2026-06-05T16:26:52.898978Z" modified="2026-06-05T16:26:52.898987Z" visited="2026-06-05T16:26:52.898980Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T16:26:52.898982Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/gemini-code-1780677628781.txt" added="2026-06-05T16:40:28.920415Z" modified="2026-06-05T16:40:28.920420Z" visited="2026-06-05T16:40:28.920416Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T16:40:28.920417Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/gemini-code-1780679424589.sh" added="2026-06-05T17:10:24.790149Z" modified="2026-06-05T17:10:24.790153Z" visited="2026-06-05T17:10:24.790149Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T17:10:24.790151Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/marketplace.zip" added="2026-06-05T18:02:53.138298Z" modified="2026-06-05T18:02:53.138310Z" visited="2026-06-05T18:02:53.138300Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T18:02:53.138306Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/2025-05-26-Tux-by_Larry_Ewing_GIMP-Aufmacher-5fbbc2d804a5fe98-3234697058.png" added="2026-06-05T18:12:40.235989Z" modified="2026-06-05T18:12:40.566080Z" visited="2026-06-05T18:12:40.235991Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T18:12:40.566076Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Downloads/gemini-code-1780683973543.sh" added="2026-06-05T18:26:13.810740Z" modified="2026-06-05T18:26:13.810744Z" visited="2026-06-05T18:26:13.810741Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T18:26:13.810742Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///.locall" added="2026-06-05T18:50:36.537222Z" modified="2026-06-05T18:50:36.537236Z" visited="2026-06-05T18:50:36.537224Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T18:50:36.537228Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/.local/bin/screenshot.sh" added="2026-06-05T18:50:52.200198Z" modified="2026-06-06T04:10:49.228684Z" visited="2026-06-05T18:50:52.200200Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-06T04:10:49.228680Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Videos/Recordings/rec_20260605_125101.mp4" added="2026-06-05T18:53:38.235401Z" modified="2026-06-05T18:53:38.235410Z" visited="2026-06-05T18:53:38.235403Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-06-05T18:53:38.235405Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Videos/Recordings/rec_20260605_125446.mp4" added="2026-06-05T18:55:21.273070Z" modified="2026-06-05T18:55:21.273078Z" visited="2026-06-05T18:55:21.273072Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-06-05T18:55:21.273074Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Videos/Recordings/rec_20260605_125708.mp4" added="2026-06-05T18:57:42.807344Z" modified="2026-06-05T18:57:42.807353Z" visited="2026-06-05T18:57:42.807345Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-06-05T18:57:42.807348Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Videos/Recordings/rec_20260605_125913.mp4" added="2026-06-05T18:59:21.133622Z" modified="2026-06-05T18:59:21.133630Z" visited="2026-06-05T18:59:21.133623Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-06-05T18:59:21.133625Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Videos/Recordings/rec_20260605_125935.mp4" added="2026-06-05T19:00:30.879061Z" modified="2026-06-05T19:00:30.879070Z" visited="2026-06-05T19:00:30.879063Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-06-05T19:00:30.879066Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Videos/Recordings/rec_20260605_130326.mp4" added="2026-06-05T19:04:26.575369Z" modified="2026-06-05T19:05:27.057997Z" visited="2026-06-05T19:04:26.575371Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-06-05T19:04:26.575374Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-05T19:05:27.057981Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/isaak/Videos/Recordings/rec_20260605_220231.mp4" added="2026-06-06T04:02:52.620072Z" modified="2026-06-06T04:02:52.620091Z" visited="2026-06-06T04:02:52.620075Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-06-06T04:02:52.620083Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

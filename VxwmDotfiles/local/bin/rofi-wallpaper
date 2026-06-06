@@ -1,0 +1,45 @@
+#!/bin/bash
+WALL_DIR="$HOME/Wallpapers"
+. "${HOME}/.cache/wal/colors.sh"
+
+if [ ! -d "$WALL_DIR" ]; then
+    mkdir -p "$WALL_DIR"
+    exit 1
+fi
+
+SELECTED=$(find "$WALL_DIR" -type f \( -name "*.jpg" -o -name "*.png" -o -name "*.jpeg" \) \
+    | while read -r img; do
+        echo -en "$(basename "$img")\0icon\x1f$img\n"
+    done | rofi -dmenu -i -p "" -show-icons \
+        -theme-str 'element-text { enabled: false; } element { orientation: vertical; } element-icon { size: 6em; } listview { columns: 5; }')
+
+if [ -n "$SELECTED" ]; then
+    NEW_WALL="$WALL_DIR/$SELECTED"
+    OLD_WALL=$(cat ~/.cache/wal/wal 2>/dev/null)
+    TMP_DIR=$(mktemp -d)
+    TOTAL_FRAMES=12
+
+    ffmpeg -loglevel quiet \
+        -loop 1 -t 1 -i "$OLD_WALL" \
+        -loop 1 -t 1 -i "$NEW_WALL" \
+        -filter_complex "
+            [0:v]scale=1920:1080:force_original_aspect_ratio=increase,crop=1920:1080[old];
+            [1:v]scale=1920:1080:force_original_aspect_ratio=increase,crop=1920:1080[new];
+            [old][new]xfade=transition=circleopen:duration=0.4:offset=0[out]
+        " \
+        -map "[out]" -r 30 -vframes $TOTAL_FRAMES \
+        -q:v 2 "$TMP_DIR/frame%03d.jpg"
+
+    for i in $(seq 1 $TOTAL_FRAMES); do
+        f=$(printf "$TMP_DIR/frame%03d.jpg" $i)
+        [ -f "$f" ] && feh --bg-fill "$f"
+        sleep 0.018
+    done
+
+    rm -rf "$TMP_DIR"
+    wal -i "$NEW_WALL" &
+
+    for pid in $(pgrep -x vim 2>/dev/null); do
+        kill -SIGUSR1 "$pid" 2>/dev/null
+    done
+fi
